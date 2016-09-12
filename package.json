@@ -1,0 +1,15 @@
+{
+  "name": "koa-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "co-mocha": "^1.1.3",
+    "mocha": "^3.0.2"
+  }
+}
